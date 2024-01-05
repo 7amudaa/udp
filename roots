@@ -1,3 +1,20 @@
+193.24.221.166:22140:root:root1234 
+213.59.159.236:59922:root:orangepi NEW-04
+213.59.159.52:59922:root:orangepi
+77.94.103.227:59922:root:orangepi EGGDROP
+83.174.209.220:59922:root:orangepi EGGDROP
+83.174.214.107:59922:root:orangepi EGGDROP
+83.174.226.33:59922:root:orangepi EGGDROP
+83.174.230.195:59922:root:orangepi ? EGGDROP but on strato
+83.174.237.120:59922:root:orangepi EGGDROP
+158.101.173.27:42022:pi:raspberry EGGDROP
+92.50.143.142:59922:root:orangepi EGGDROP
+
+
+213.119.70.92:22004:root:raspberry NEW-02 PERL
+178.118.190.148:22004:root:raspberry NEW-03 PERL
+ 178.119.63.222:22004:root:raspberry NEW-01 PERL
+
  172.105.172.93:22550:pi:raspberry
 222.228.17.192:58222:pi:raspberry
 138.121.152.48:22210:root:showme 
@@ -78,5 +95,5 @@ Success: pi: raspberry 61.77.131.142:9003
 92.50.143.142:59922:root:orangepi
 
 
-118.42.60.3:5822:pi mofo123 (root)
-89.105.246.36:14022:pi:mofo123 (root) 
+118.42.60.3:5822:pi mofo123 (root) -- company
+89.105.246.36:14022:pi:mofo123 (root) -- company
